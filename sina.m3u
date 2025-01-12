@@ -1,0 +1,134 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.png” group-title=”Bangla”, T-sports
+http://172.20.2.5:8082/T-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/GTV_(Bangladeshi_TV_channel)#/media/File:GTVBangladeshLogo.png” group-title=”Bangla”, GTV
+http://172.20.2.5:8082/GTV/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Sony_Sports_Network#/media/File:Sony_Sports_Network.svg” group-title=”Sports”, Sony1
+http://172.20.2.5:8082/SONY-TEN-1/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Sony_Sports_Network#/media/File:Sony_Sports_Network.svg” group-title=”Sports”, Sony2
+http://172.20.2.5:8082/SONY-TEN-2/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Sony_Sports_Network#/media/File:Sony_Sports_Network.svg” group-title=”Sports”, Sony3
+http://172.20.2.5:8082/SONY-TEN-3/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Star_Sports_(Indian_TV_network)#/media/File:Star_Sports_1_HD.png” group-title=”Sports”, Starsports1
+http://172.20.2.5:8082/STAR-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835” group-title=”Sports”, Starsports2
+http://172.20.2.5:8082/STAR-SPORTS-2/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436” group-title=”Sports”, Starselect1
+http://172.20.2.5:8082/SPL-1/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646” group-title=”Sports”, Starselect2
+http://172.20.2.5:8082/SPL-2/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Somoy_TV#/media/File:SOMOY_TV_Logo.svg” group-title=”Bangla”, Shomoytv
+http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Independent_Television_(Bangladesh)#/media/File:Independent_Television_Logo.svg” group-title=”Bangla”, Independenttv
+http://172.20.2.5:8082/INDPENDENT-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Maasranga_Television#/media/File:Maasranga_Television_Logo.jpg” group-title=”Bangla”, Maasrangatv
+http://172.20.2.5:8082/MASRANGA-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/RTV_(Bangladeshi_TV_channel)#/media/File:Rtv_bangladesh.svg” group-title=”Bangla”, Rtv
+http://172.20.2.5:8082/RTV/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Channel_i#/media/File:Channel-i.svg” group-title=”Bangla”, ChannelI
+http://172.20.2.5:8082/CHANNEL-I/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/DBC_News#/media/File:DBC_News_Logo.svg” group-title=”Bangla”, DBCNews
+http://172.20.2.5:8082/DBC-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/NTV_(Bangladeshi_TV_channel)#/media/File:NTV_(Bangladesh)_logo.svg” group-title=”Bangla”, NTV
+http://172.20.2.5:8082/NTV/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/ATN_News#/media/File:ATN_News_Logo_3.GIF” group-title=”Bangla”, ATN-NEWS
+http://172.20.2.5:8082/ATN-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Gaan_Bangla#/media/File:Gaan_Bangla_Logo.png” group-title=”Bangla”, GANbangla
+http://172.20.2.5:8082/GAN-BANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Jamuna_Television#/media/File:JamunaTV_logo.jpg” group-title=”Bangla”, JamunaTV
+http://172.20.2.5:8082/JAMUNA-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/ATN_Bangla#/media/File:ATN_Bangla.svg” group-title=”Bangla”, ATNbangla
+http://172.20.2.5:8082/ATN-BANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Boishakhi_Television#/media/File:Boishakhi_TV_logo.svg” group-title=”Bangla”, BOISHAKITV
+http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Banglavision#/media/File:Banglavision.svg” group-title=”Bangla”, BANGLAVISION
+http://172.20.2.5:8082/BANGLAVISION-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Sony_Aath#/media/File:Sony_Aath_new.png” group-title=”Bangla”, SONY-ART
+http://172.20.2.5:8082/SONY-ART/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Zee_Bangla#/media/File:Zee_Bangla_logo.png” group-title=”Bangla”, ZEE-BANGLA
+http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Star_Jalsha#/media/File:Star_Jalsha_logo_2023.png” group-title=”Bangla”, STAR-JALSHa
+http://172.20.2.5:8082/STAR-JALSHA/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg” group-title=”Bangla”, JALSHA-MOVIES
+http://172.20.2.5:8082/JALSHA-MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Colors_Bangla#/media/File:Colors_Bangla.png” group-title=”Bangla”, COLORS-BANGLA
+http://172.20.2.5:8082/COLORS-BANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%A4_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%A4_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg” group-title=”Bangla”, SANGIT-BANGLA
+http://172.20.2.5:8082/SANGIT-BANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg” group-title=”Bangla”, ZEE-BANGLA-CINEMA
+http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Zee_Entertainment_Enterprises#/media/File:Zee_entertainment_enterprises_logo.svg” group-title=”HINDI”, ZEE-CINEMA
+http://172.20.2.5:8082/ZEE-CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Colors_TV#/media/File:Colors_TV_logo.svg” group-title=”HINDI”, COLORS-HIN
+http://172.20.2.5:8082/COLORS-HIN/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0_%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%B8#/media/%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0:%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%B8.jpeg” group-title=”HINDI”, STAR-PLUS
+http://172.20.2.5:8082/STAR-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://hi.wikipedia.org/wiki/%26_%E0%A4%AA%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%B8#/media/%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0:Andpictures.png” group-title=”HINDI”, AND-PICTURE
+http://172.20.2.5:8082/AND-PICTURE/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png” group-title=”HINDI”, SONY-ENT
+http://172.20.2.5:8082/SONY-ENT/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png/revision/latest?cb=20230110195250” group-title=”HINDI”, SONY-MAX2
+http://172.20.2.5:8082/SONY-MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Mastiii#/media/File:Mastiii-TV_logo.jpg” group-title=”HINDI”, MASTI
+http://172.20.2.5:8082/MASTI/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Star_Gold_Network#/media/File:Star_Gold_Network_logo.png” group-title=”HINDI”, STAR-GOLD
+http://172.20.2.5:8082/STAR-GOLD/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Star_Movies_(Indian_TV_channel)#/media/File:STAR_Movies_logo.svg” group-title=”ENGLISH”, STAR-MOVIE
+http://172.20.2.5:8082/STAR-MOVIE/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Movies_Now#/media/File:Movies_Now_logo.png” group-title=”ENGLISH”, MOVIE-NOW
+http://172.20.2.5:8082/MOVIE-NOW/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Sony_Pix#/media/File:Sony_Pix_new.png” group-title=”ENGLISH”, SONY-PIX
+http://172.20.2.5:8082/SONY-PIX/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/CNN#/media/File:CNN.svg” group-title=”ENGLISH”, CNN
+http://172.20.2.5:8082/AL-JAJERIA/index.m3u8
+
+
+
+
+
+
+
+
+
+
